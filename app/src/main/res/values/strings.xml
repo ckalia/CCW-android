@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CCW</string>
+    <string name="take_barcode_picture">Take Barcode Picture</string>
+    <string name="scan_code">Scan QR Code</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="send_email">SEND EMAIL</string>
+    <string name="enter_code">Enter the visual code displayed on ATM screen</string>
+    <string name="visual_code_button">Submit</string>
+    <string name="homescreen_content_description">hsbc_logo</string>
+</resources>
